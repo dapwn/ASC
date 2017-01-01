@@ -1,0 +1,5 @@
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\bin\Release\ASC.exe.config
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\bin\Release\ASC.exe
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\bin\Release\ASC.pdb
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\obj\Release\ASC.exe
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\obj\Release\ASC.pdb

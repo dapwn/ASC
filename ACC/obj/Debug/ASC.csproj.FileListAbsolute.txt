@@ -1,0 +1,6 @@
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\bin\Debug\ASC.exe.config
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\bin\Debug\ASC.exe
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\bin\Debug\ASC.pdb
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\obj\Debug\ASC.csprojResolveAssemblyReference.cache
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\obj\Debug\ASC.exe
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\ACC\ACC\obj\Debug\ASC.pdb
